@@ -1,0 +1,23 @@
+{
+  "name": "coba-jenkins",
+  "version": "1.0.0",
+  "description": "Mencoba jenkins ci-cd",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/msalman0512/coba-jenkins.git"
+  },
+  "author": "Muhammad Salman Al Farisi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/msalman0512/coba-jenkins/issues"
+  },
+  "homepage": "https://github.com/msalman0512/coba-jenkins#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
